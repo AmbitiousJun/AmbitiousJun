@@ -15,4 +15,4 @@
 > 📫 How to reach me WeChat: wsmhzzml, QQ: 1535820771, Blog: [https://blog.ambitiousjun.cn](https://blog.ambitiousjun.cn)
 
 
-![](./assets/funny_cat.png)
+![](./assets/听泉猫.jpeg)

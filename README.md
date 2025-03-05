@@ -16,6 +16,6 @@
 
 ## My Stats
 
-<img align="" height="200px" src="https://github-readme-stats.vercel.app/api?username=AmbitiousJun&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /> &nbsp;&nbsp;&nbsp; <img align="" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmbitiousJun&hide_title=false&hide_border=false&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=AmbitiousJun&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /> &nbsp;&nbsp;&nbsp; <img align="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmbitiousJun&hide_title=false&hide_border=false&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
 <img height="500px" src="./assets/听泉猫.jpeg" />

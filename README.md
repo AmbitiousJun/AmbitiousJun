@@ -14,5 +14,6 @@
 
 > 📫 How to reach me WeChat: wsmhzzml, QQ: 1535820771, Blog: [https://blog.ambitiousjun.cn](https://blog.ambitiousjun.cn)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmbitiousJun)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](./assets/听泉猫.jpeg)
